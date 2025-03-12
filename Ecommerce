@@ -1,0 +1,6 @@
+# Ecommerce Customer Analysis
+
+This project focuses on analyzing customer data for an Ecommerce company based in New York City. The company sells clothing online and offers in-store style and clothing advice sessions. Customers interact with the company through both mobile apps and websites. The goal of this analysis is to determine whether the company should focus its efforts on improving the mobile app experience or the website experience to drive higher customer spending.
+
+The analysis uses Linear Regression to identify the relationship between customer behavior metrics (e.g., time spent on the app, website, and length of membership) and the Yearly Amount Spent by customers.
+
